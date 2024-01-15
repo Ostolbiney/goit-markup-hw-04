@@ -293,7 +293,7 @@ img {
   justify-content: center;
   align-items: center;
 }
-.icon-list-team {
+.icon-list {
   width: 40px;
   height: 40px;
 }
@@ -498,7 +498,9 @@ img {
   letter-spacing: 0.02em;
   margin-bottom: 16px;
 }
-
+.footer-media {
+  margin-bottom: 16px;
+}
 .list-footer-icon {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
